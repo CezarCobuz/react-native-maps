@@ -9,7 +9,7 @@ npm install react-native-maps --save-exact
 or 
 
 ```sh
-yarn add react-native-maps -E
+yarn add react-native-maps
 ```
 
 The library ships with platform native code that needs to be compiled
